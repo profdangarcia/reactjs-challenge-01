@@ -1,0 +1,28 @@
+header {
+  background: #4A90E2;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 42px;
+}
+
+header img {
+  height: auto;
+  width: 121px;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+}
+
+header nav span {
+  margin-right: 10px ;
+  color: #fff;
+  font-size: 15px;
+}
+
+header nav i {
+  color: #fff;
+}
